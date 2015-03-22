@@ -14,7 +14,7 @@ and open the template in the editor.
 <cheeses top="jack" bottom="aged"></cheeses>
 <topping type="bacon"></topping>
 <topping type="porkbelly"></topping>
-<topping type="tomato"></topping>
+<topping type="lettuce"></topping>
 <sauce type="mayo"></sauce>
 <sauce type="mustard"></sauce>
 <instructions>Deliver at my home</instructions>
